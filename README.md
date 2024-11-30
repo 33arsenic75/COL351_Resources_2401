@@ -27,5 +27,9 @@ This repository contains various course materials including assignments, quizzes
 	Max:- 41.5
 	Mean:- 19
 6. Major:
-	Max:-
-	Mean:-
+	Max:- 45.5
+	Mean:- 21
+## Course BreakUp
+Quizzes:- 36%. 3 best, 12% each.
+Tutorials:- 8 best. 3 percent each. 24% total
+Minor,Major:- 20%
